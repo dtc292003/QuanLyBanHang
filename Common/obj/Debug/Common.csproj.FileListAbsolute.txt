@@ -1,0 +1,15 @@
+C:\Users\johny\Downloads\WebSiteBanHang\Common\bin\Debug\Common.dll
+C:\Users\johny\Downloads\WebSiteBanHang\Common\bin\Debug\Common.pdb
+C:\Users\johny\Downloads\WebSiteBanHang\Common\obj\Debug\Common.dll
+C:\Users\johny\Downloads\WebSiteBanHang\Common\obj\Debug\Common.pdb
+E:\Document\Đồ án\WebSiteBanHang\Common\bin\Debug\Common.dll
+E:\Document\Đồ án\WebSiteBanHang\Common\bin\Debug\Common.pdb
+E:\Document\Đồ án\WebSiteBanHang\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Document\Đồ án\WebSiteBanHang\Common\obj\Debug\Common.dll
+E:\Document\Đồ án\WebSiteBanHang\Common\obj\Debug\Common.pdb
+D:\appfree\Chương Trình (1)\Website bán đồ ăn vặt\WebSiteBanHang\Common\bin\Debug\Common.dll
+D:\appfree\Chương Trình (1)\Website bán đồ ăn vặt\WebSiteBanHang\Common\bin\Debug\Common.pdb
+D:\appfree\Chương Trình (1)\Website bán đồ ăn vặt\WebSiteBanHang\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\appfree\Chương Trình (1)\Website bán đồ ăn vặt\WebSiteBanHang\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\appfree\Chương Trình (1)\Website bán đồ ăn vặt\WebSiteBanHang\Common\obj\Debug\Common.dll
+D:\appfree\Chương Trình (1)\Website bán đồ ăn vặt\WebSiteBanHang\Common\obj\Debug\Common.pdb
